@@ -1,0 +1,38 @@
+﻿{
+  "Cookies": {
+    "Antiforgery": {
+      "Name": ".Web-Token"
+    },
+    "Auth": {
+      "Name": ".Web-Auth"
+    },
+    "Session": {
+      "Name": ".Web-Session"
+    }
+  },
+
+  "Data": {
+    "Connection": "Server=musagul.com;Database=TakipSistemi;User Id=takipsistemi;Password=1q2w3eASD"
+  },
+
+  "Languages": {
+    "Path": "languages.config"
+  },
+
+  "Logger": {
+    "Directory": "Logs",
+    "BackupSize": 5242880
+  },
+
+  "Mail": {
+    "Port": 587,
+    "EnableSsl": true,
+    "Host": "smtp.gmail.com",
+    "Sender": "takipyonetimsistemi@gmail.com",
+    "Password": "1q2w3eASD"
+  },
+
+  "SiteMap": {
+    "Path": "Mvc.sitemap"
+  }
+}

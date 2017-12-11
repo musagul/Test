@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Version>0.1.0</Version>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <TargetFrameworks>net461;netstandard2.0</TargetFrameworks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TakipSistemi\TakipSistemi.csproj" />
+    <ProjectReference Include="..\TakipSistemi.Services\TakipSistemi.Services.csproj" />
+    <ProjectReference Include="..\TakipSistemi.Validators\TakipSistemi.Validators.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.ViewFeatures" Version="2.0.1" />
+  </ItemGroup>
+
+</Project>

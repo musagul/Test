@@ -1,0 +1,17 @@
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Validators\bin\Debug\netstandard2.0\TakipSistemi.Validators.deps.json
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Validators\bin\Debug\netstandard2.0\TakipSistemi.Validators.dll
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Validators\bin\Debug\netstandard2.0\TakipSistemi.Validators.pdb
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Validators\bin\Debug\netstandard2.0\TakipSistemi.Components.dll
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Validators\bin\Debug\netstandard2.0\TakipSistemi.Data.dll
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Validators\bin\Debug\netstandard2.0\TakipSistemi.Objects.dll
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Validators\bin\Debug\netstandard2.0\TakipSistemi.Resources.dll
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Validators\bin\Debug\netstandard2.0\TakipSistemi.Data.pdb
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Validators\bin\Debug\netstandard2.0\TakipSistemi.Components.pdb
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Validators\bin\Debug\netstandard2.0\TakipSistemi.Objects.pdb
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Validators\bin\Debug\netstandard2.0\TakipSistemi.Resources.pdb
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Validators\bin\Debug\netstandard2.0\lt\TakipSistemi.Resources.resources.dll
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Validators\obj\Debug\netstandard2.0\TakipSistemi.Validators.csproj.CoreCompileInputs.cache
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Validators\obj\Debug\netstandard2.0\TakipSistemi.Validators.AssemblyInfoInputs.cache
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Validators\obj\Debug\netstandard2.0\TakipSistemi.Validators.AssemblyInfo.cs
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Validators\obj\Debug\netstandard2.0\TakipSistemi.Validators.dll
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Validators\obj\Debug\netstandard2.0\TakipSistemi.Validators.pdb

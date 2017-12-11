@@ -1,0 +1,12 @@
+﻿@model ModuleModel
+using TakipSistemi.Objects;
+using System;
+
+namespace TakipSistemi.Validators
+{
+    public interface @Model.IValidator : IValidator
+    {
+        Boolean CanCreate(@Model.View view);
+        Boolean CanEdit(@Model.View view);
+    }
+}

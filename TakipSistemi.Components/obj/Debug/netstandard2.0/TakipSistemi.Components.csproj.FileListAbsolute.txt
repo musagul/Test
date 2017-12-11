@@ -1,0 +1,12 @@
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Components\bin\Debug\netstandard2.0\TakipSistemi.Components.deps.json
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Components\bin\Debug\netstandard2.0\TakipSistemi.Components.dll
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Components\bin\Debug\netstandard2.0\TakipSistemi.Components.pdb
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Components\bin\Debug\netstandard2.0\TakipSistemi.Resources.dll
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Components\bin\Debug\netstandard2.0\TakipSistemi.Resources.pdb
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Components\bin\Debug\netstandard2.0\lt\TakipSistemi.Resources.resources.dll
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Components\obj\Debug\netstandard2.0\TakipSistemi.Components.csprojResolveAssemblyReference.cache
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Components\obj\Debug\netstandard2.0\TakipSistemi.Components.csproj.CoreCompileInputs.cache
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Components\obj\Debug\netstandard2.0\TakipSistemi.Components.AssemblyInfoInputs.cache
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Components\obj\Debug\netstandard2.0\TakipSistemi.Components.AssemblyInfo.cs
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Components\obj\Debug\netstandard2.0\TakipSistemi.Components.dll
+C:\Users\ty\Desktop\TestProjesi\MVC6.Template-develop\src\TakipSistemi.Components\obj\Debug\netstandard2.0\TakipSistemi.Components.pdb
